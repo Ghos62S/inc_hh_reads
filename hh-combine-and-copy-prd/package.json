@@ -1,0 +1,15 @@
+{
+    "name": "combine-and-copy",
+    "version": "1.0.0",
+    "description": "extract the data from prefix file and combine to a single file",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "s3-file-concat": "^1.0.7"
+    }
+  }
+  
