@@ -1,0 +1,16 @@
+{
+    "name": "smart-edf-queue-transformation",
+    "version": "1.0.0",
+    "description": "Retriving the data from redshift table and sending to SQS queue",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "jshint": "jshint ."
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "node-redshift": "^0.1.5",
+      "split-array": "^1.0.1"
+    }
+}  
